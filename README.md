@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 <h3 align="center">I'm currently studying in high school, in my free time I use python to program and make api</h3>
-
 - 🔭 I’m currently working on **Portfolio API**
 
 - 🌱 I’m currently learning **Django, REST API, FLASK,**
