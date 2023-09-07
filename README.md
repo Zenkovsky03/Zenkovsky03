@@ -6,3 +6,12 @@
 <h3 align="center">Student with a passion for python from Poland</h3>
 
 <br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **portfolio app**
+ 
+ 🌱 I’m currently learning **Django, DRF, FastApi**
+
+ 
+ </div>
