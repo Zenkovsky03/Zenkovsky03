@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Matthew, I am a student of computer science at Bialystok University of Technology.<br>🔭 I’m currently working on isEldorado<br>🌱 I’m currently learning MLL structures<br>
+👋 Hi, I’m Matthew, a student of computer science at Bialystok University of Technology with passion for python.<br>🔭 I’m currently working on isEldorado<br>🌱 I’m currently learning MLL structures<br>
 
 
 ## 🌐 Socials:
